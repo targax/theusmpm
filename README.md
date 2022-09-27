@@ -1,26 +1,48 @@
-# Olá! Eu sou o Matheus Martins✌👨🏼‍💻 
+ <img width=170% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=45&center=true&vCenter=true&width=1000&lines=+My+name+is+Matheus+Parizotto+Martins.;I'm+21+years+old.;I'm+from+Brazil,+SP.;Be+Welcome!)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="%" height="195px" src="https://github-readme-stats.vercel.app/api?username=theusmpm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Martins github stats" /> 
+
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=theusmpm&theme=gotham&hide_border=true&area=true)
+
+# Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theusmpm/)
-[![TwitchTV](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/07koala)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-martins-938892246/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/theusmpm)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007170697606)
+  
+# Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+
+# Other Knowledge:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Microsoft EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+  
+# Studying in this moment:
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+# Free Time:
 [![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199109714983)
-<br/>
-![Theus GitHub stats](https://github-readme-stats.vercel.app/api?username=theusmpm&show_icons=true&theme=dark)
+[![ORIGIN](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://www.origin.com/bra/pt-br/profile/achievements)
+[![RIOT](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://tracker.gg/valorant/profile/riot/DoubleT%23REP/overview)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4U4VfgfCPqz10cPGC9aduH?si=5875908d3a024801)
 
-## Tecnologias que uso  no meu dia:
-<div style="display: inline_block">
-	<img align="center" alt=HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<div style="display: inline_block">
-	<img align="center" alt=CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<div style="display: inline_block">
-	<img align="center" alt=PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
-<div style="display: inline_block">
-	<img align="center" alt=Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
- <div style="display: inline_block">
-	<img align="center" alt=MARKDOWN" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-<div style="display: inline_block">
-	<img align="center" alt="Microsoft EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br/>
-<br/>
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{theusmpm}/count.svg" /></p> 
+<br></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusmpm&layout=compact)](https://github.com/theusmpm/github-readme-stats)
+<img width=170% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
