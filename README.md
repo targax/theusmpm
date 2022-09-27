@@ -4,6 +4,7 @@
 [![TwitchTV](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/07koala)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-martins-938892246/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/theusmpm)
+[![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199109714983)
 <br/>
 ![Theus GitHub stats](https://github-readme-stats.vercel.app/api?username=theusmpm&show_icons=true&theme=dark)
 
