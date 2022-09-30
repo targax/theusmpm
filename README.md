@@ -10,7 +10,7 @@
 ![Followers](https://img.shields.io/github/followers/theusmpm?style=social)
 
 # <span style="color:red">SetUp:</span>
-![GPU](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=whit)
 ![PC](https://img.shields.io/badge/Acer_Nitro_5-ED1C24?style=for-the-badge&logo=Windows&logoColor=white)
 
