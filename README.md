@@ -3,11 +3,17 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=+My+name+is+Matheus+Parizotto+Martins.;I'm+21+years+old.;I'm+from+Brazil,+SP.;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="%" height="195px" src="https://github-readme-stats.vercel.app/api?username=theusmpm&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=000000" alt="Matheus Martins github stats" /> 
+  <img width="%" height="195px" src="https://github-readme-stats.vercel.app/api?username=theusmpm&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=000000" alt="Matheus Martins github stats" 
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=theusmpm&theme=gotham&hide_border=true&area=true&color=FF0000)
 
 ![Followers](https://img.shields.io/github/followers/theusmpm?style=social)
+
+# <span style="color:red">SetUp:</span>
+![GPU](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![CPU](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=whit)
+![PC](https://img.shields.io/badge/Acer_Nitro_5-ED1C24?style=for-the-badge&logo=Windows&logoColor=white)
+
 
 # <span style="color:red">Social Media:</span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-martins-938892246/)
@@ -17,14 +23,14 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/theusmpm)
   
 # <span style="color:red">Tools:</span>
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+[![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)](https://code.visualstudio.com/download)
 
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+
+[![WIN](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;](https://www.microsoft.com/pt-br/)
+[![Office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;](https://www.microsoft.com/pt-br/microsoft-365/business/compare-all-microsoft-365-business-products-b?&ef_id=CjwKCAjwhNWZBhB_EiwAPzlhNp2iLfqKDr4nFmrF3YlQBDC7bFe8Y7HbylBUXFfj5LLTz7ZnI4AlvxoC0FoQAvD_BwE:G:s&OCID=AIDcmm409lj8ne_SEM_CjwKCAjwhNWZBhB_EiwAPzlhNp2iLfqKDr4nFmrF3YlQBDC7bFe8Y7HbylBUXFfj5LLTz7ZnI4AlvxoC0FoQAvD_BwE:G:s&lnkd=Google_O365SMB_Brand&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNp2iLfqKDr4nFmrF3YlQBDC7bFe8Y7HbylBUXFfj5LLTz7ZnI4AlvxoC0FoQAvD_BwE)
 ![PhotoShop](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+[![Gitzera](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/theusmpm)
 
 # <span style="color:red">Other Knowledge:</span>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
