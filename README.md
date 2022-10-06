@@ -1,4 +1,4 @@
- <img width=170% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+ <img width=170% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=+My+name+is+Matheus+Parizotto+Martins.;I'm+21+years+old.;I'm+from+Brazil,+SP.;Be+Welcome!)](https://git.io/typing-svg)
 
