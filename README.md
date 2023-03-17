@@ -10,8 +10,6 @@
 
 <div align="center">
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=theusmpm&theme=gotham&hide_border=true&area=true&color=FF0000)
-
 ![Followers](https://img.shields.io/github/followers/theusmpm?style=social)
 
 # <span style="color:red">Social Media:</span>
