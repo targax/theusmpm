@@ -1,9 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=45&center=true&vCenter=true&width=1000&lines=+My+name+is+Matheus+P.+Martins.;I'm+23+years+old.;I'm+from+Brazil,+SP.)](https://git.io/typing-svg)
 
 <div align="center">
-- 🔭 I’m currently working on Front end
+<h3>- 🔭 Front end Developer
   <br>
-- 🌱 I’m currently learning Python
+- 🌱 Learning at this moment: Python🐍</h3>
 </div>  
 
 <table align = "center">
