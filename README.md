@@ -53,7 +53,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 🌟 Quote
+### 🌟 Quote 🌟
 
  _"Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir."_ - Steve Jobs 
 
